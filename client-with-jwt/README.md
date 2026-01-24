@@ -1,3 +1,4 @@
+Second try
 # JWT Frontend Client
 
 This React application provides a complete **JWT-based authentication flow** (sign up, log in, session persistence). It is designed to connect to your **Flask backend** and assumes the backend exposes JWT-protected routes.
